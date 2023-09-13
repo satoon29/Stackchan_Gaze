@@ -1,0 +1,8 @@
+ESP32WebServer
+https://github.com/MechaUma/SimpleVox
+earlephilhower/ESP8266Audio @ ^1.9.7
+madhephaestus/ESP32Servo @ 0.13.0
+m5stack/M5Unified@0.1.7
+meganetaaan/M5Stack-Avatar@^0.8.2
+bblanchon/ArduinoJson @ ^6
+arminjo/ServoEasing@^2.4.0
