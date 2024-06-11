@@ -1,3 +1,13 @@
+# 学士課程の研究で使用
+## 変更箇所
+- スマートフォンアプリから視線方向を操作できるように変更
+- 目のデザインを変更
+![image](https://github.com/satoon29/Stackchan_Gaze/assets/133836498/fcc3618b-3ab3-4d87-958b-72f784cb1a04)
+
+
+
+---
+
 # AI_StackChan2
 AIｽﾀｯｸﾁｬﾝ2です。
 <br><br>
